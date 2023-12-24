@@ -6,6 +6,10 @@
 
 This application allows you to fully automate your daily challenges in Fall Guys with a single click. The total time taken to complete one dailies is 15 minutes.
 
+## Preview
+
+[Demonstration](https://www.reddit.com/r/FallGuysGame/comments/18q1ofj/auto_daily_complete_your_dailies_with_just_one/)
+
 ## Downloads
 
 [Click to download](https://github.com/Widdit/Fall-Guys-Auto-Daily/releases)
