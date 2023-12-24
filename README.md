@@ -29,4 +29,4 @@ Run Fall Guys (full screen required) and make the game on the home screen. Click
 2. This method doesn't directly give you XP. It's the daily challenges that really make you earn XP. Once you've finished the dailies, you won't get any more rewards this way.
 3. This app automatically quits after completing 25 games. So you can't let it run for a long time (like the whole night).
 4. This app is only about your own play and does not affect the gaming experience of others.
-5. If there is a problem actually occurs, I can disable the app so that all people who have it will not be able to continue using it. So if it violates the rules, please have a mod contact me and I will disable it immediately.
+5. If a bad situation arises, I can disable the app so that all people who have it will not be able to continue using it. So if it violates the rules, please have a mod contact me and I will disable it immediately.
