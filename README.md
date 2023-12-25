@@ -8,7 +8,11 @@ This application allows you to fully automate your daily challenges in Fall Guys
 
 ## Preview
 
-[Demonstration](https://www.reddit.com/r/FallGuysGame/comments/18q1ofj/auto_daily_complete_your_dailies_with_just_one/)
+
+
+https://github.com/Widdit/Fall-Guys-Auto-Daily/assets/81136651/4c3fe2f9-e257-4961-8ba9-b754e1fc5451
+
+
 
 ## Downloads
 
